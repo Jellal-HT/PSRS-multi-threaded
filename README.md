@@ -4,4 +4,4 @@ This repository contains my implementation of the [PSRS](http://www.math-cs.gord
 
 Here's the overview of the algorithm from the paper.
 
-![](./overview.png)
+![image](overview.png)
